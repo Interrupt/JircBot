@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Interrupt.IrcBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="user" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DotNetIrcBot</Value>
+    </Setting>
+    <Setting Name="nick" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DotNetIrcBot</Value>
+    </Setting>
+    <Setting Name="channel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">#tech</Value>
+    </Setting>
+    <Setting Name="server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="logDirectory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\tmp\logs</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
